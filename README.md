@@ -31,3 +31,13 @@ Looking back at this prototype, the following architectural and workflow improve
 * **Code Refactoring with Functions:** Break down monolithic logic and complex Blueprints into smaller, single-responsibility **Functions** to keep the visual scripting clean, readable, and easy to debug.
 * **Better System Separation:** Establish clearer architectural boundaries between gameplay systems, data handling, and UI to improve scalability.
 * **Technical Documentation (GDD / TDD):** Create a dedicated **Technical Design Document** (or a structured PDF overview) alongside future repositories to clearly explain system flows, Blueprint architecture, and design decisions.
+
+
+## Next Project: CombatFX-Lite
+
+Our next project will be **CombatFX-Lite**, a lightweight combat feedback system developed in Unreal Engine 5 using 100% Blueprints.
+
+This project represents our next step in developing gameplay systems, focusing on combat feedback mechanics, damage visualization, health bars, and Blueprint integration.
+
+Building on the experience gained from Bar Simulator System, we aim to improve our development practices, system organization, and technical implementation.
+
